@@ -37,7 +37,8 @@
 
 
 Скриншот консоли ВМ yandex cloud с их метками
-<img width="2293" height="688" alt="2" src="https://github.com/user-attachments/assets/add8fd82-f8c3-4fba-88f4-f7f53ca482f4" />
+<img width="1064" height="573" alt="2" src="https://github.com/user-attachments/assets/3378fe47-8899-41b1-b6ca-60ef41370c9f" />
+
 
 
 Скриншот содержимого модуля. terraform console > module.marketing_vm
